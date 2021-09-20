@@ -1,5 +1,5 @@
 # Homework 2: Word Alignment
-The purpose of this task was to improve the alignment error rate as much as possible
+The purpose of this task was to improve the alignment error rate as much as possible using IBM model 1 as baseline.
 
 ## Language:
 Python 3.0
