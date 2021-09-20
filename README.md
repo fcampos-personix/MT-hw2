@@ -2,7 +2,7 @@
 The purpose of this task was to improve the alignment error rate as much as possible using IBM model 1 as baseline.
 
 ## Language:
-Python 3.0
+Python
 
 ## Executing program
 To run the program you must specify the number of phrases that the model will take into account during training. To specify this number, type '-n' and the number of sentences as an integer.
