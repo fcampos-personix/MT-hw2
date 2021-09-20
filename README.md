@@ -4,7 +4,7 @@ The purpose of this task was to improve the alignment error rate as much as poss
 ## Language:
 Python
 
-## Executing program
+## Executing the program
 To run the program you must specify the number of phrases that the model will take into account during training. To specify this number, type '-n' and the number of sentences as an integer.
 ```
 python model1_imp.py -n 1000
